@@ -1,0 +1,13 @@
+
+.tabela {
+    font-family: fantasy;
+    font-size: 4em ;
+    box-shadow: 1 1 22px;
+    width: 100%;
+}
+.tabela body tr {
+    border-bottom: 0.5px seagreen;
+}
+title{
+    color: blue;
+}
